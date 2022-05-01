@@ -186,6 +186,7 @@ img {
   display: flex;
 }
 .features-thumb {
+  height: 120px;
   margin-bottom: 30px;
   background-color: #f5f4fa;
   border-radius: 4px;
